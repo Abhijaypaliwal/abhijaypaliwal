@@ -12,6 +12,11 @@ Blockchain Engineer with 2+ years of experience in the entire Blockchain project
 🎯 𝗦𝗸𝗶𝗹𝗹𝘀 𝗮𝗻𝗱 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲:
 
 - Ethereum, Polygon, EVM, Optimism
+- Expert in -
+  - Building ERC20, ERC721, ERC1155, ERC6551 TBA, proxy contracts and other openzeppelin standard contracts
+  - Writing gas optimised code
+  - Using solidity assembly
+  - Debugging contracts
 - Security: Code Review, Security Research in solidity 
 - Platform: Linux, Git, Github Actions, Gitlab CI/CD
 - Languages
