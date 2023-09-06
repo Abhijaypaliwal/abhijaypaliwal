@@ -18,7 +18,7 @@ Blockchain Engineer with 2+ years of experience in the entire Blockchain project
   - Website link: https://pbm-coin.com/
   - Contracts link: https://github.com/Abhijaypaliwal/PBMC_DEX
 
-## 🎯 𝗦𝗸
+## 🎯 𝗦𝗸ills
 
 - Ethereum, Polygon, EVM, Optimism
 - Expert in -
