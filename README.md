@@ -26,6 +26,8 @@ Blockchain Engineer with 2+ years of experience in the entire Blockchain project
 - Optimism layer 2 implementation by OP-STACK and Layer 1 as Goerli
 - Property broking project with ERC 6551 Token Bound Accounts
   - contracts link: https://github.com/Abhijaypaliwal/ERC6551PropertyProject/tree/main
+- Fraction NFT With Auction
+  - contracts link: https://github.com/Abhijaypaliwal/Fraction_NFT_With_Auction
 - CBDC Implementation in blockchain
   - contracts link: https://github.com/Abhijaypaliwal/CBDCProject
 - CBDC Implementation in blckchain with merkle tree
