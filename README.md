@@ -32,6 +32,8 @@ Blockchain Engineer with 2+ years of experience in the entire Blockchain project
   - contracts link: https://github.com/Abhijaypaliwal/CBDCProject
 - CBDC Implementation in blckchain with merkle tree
   - contracts link: https://github.com/Abhijaypaliwal/PBMC_DEX
+- Other projects
+  - contracts link: https://github.com/Abhijaypaliwal/Solidity_mini_projects
 
 ## 🎯 Skills
 - Ethereum, Polygon, EVM, Optimism
