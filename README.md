@@ -8,8 +8,17 @@ Blockchain Engineer with 2+ years of experience in the entire Blockchain project
 ## 👨‍🎓 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻:
 - MBA(Tech.) dual degree course from Narsee Monjee Institute from Management Studies, Indore
 - Blockchain Professional Certification from UC Buffalo.
+  
+## 🎯 Projects worked upon:
+- Matic banknote project with redemption
+- Clubrare.xyz NFT marketplace smart contracts (V1)
+  - Website link: https://classic.clubrare.xyz/home
+  - Contracts link: https://github.com/Abhijaypaliwal/clubrare
+- PMBC DEX with invoicemint, pools and staking
+  - Website link: https://pbm-coin.com/
+  - Contracts link: https://github.com/Abhijaypaliwal/PBMC_DEX
 
-## 🎯 𝗦𝗸𝗶𝗹𝗹𝘀 𝗮𝗻𝗱 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲:
+## 🎯 𝗦𝗸
 
 - Ethereum, Polygon, EVM, Optimism
 - Expert in -
