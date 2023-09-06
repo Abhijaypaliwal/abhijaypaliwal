@@ -21,6 +21,7 @@ Blockchain Engineer with 2+ years of experience in the entire Blockchain project
   - Contracts link: https://github.com/Abhijaypaliwal/PBMC_DEX
 - Optimism cross chain bridge (for ETH and ERC20, both deployed an undeployed)
   - Webpage link- https://github.com/Abhijaypaliwal/OP-Bridge
+- Optimism layer 2 implementation by OP-STACK and Layer 1 as Goerli
 - Property broking project with ERC 6551 Token Bound Accounts
   - contracts link: https://github.com/Abhijaypaliwal/ERC6551PropertyProject/tree/main
 - CBDC Implementation in blockchain
