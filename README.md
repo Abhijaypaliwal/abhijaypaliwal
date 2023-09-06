@@ -17,6 +17,14 @@ Blockchain Engineer with 2+ years of experience in the entire Blockchain project
 - PMBC DEX with invoicemint, pools and staking
   - Website link: https://pbm-coin.com/
   - Contracts link: https://github.com/Abhijaypaliwal/PBMC_DEX
+- Optimism cross chain bridge (for ETH and ERC20, both deployed an undeployed)
+  - Webpage link- https://github.com/Abhijaypaliwal/OP-Bridge
+- Property broking project with ERC 6551 Token Bound Accounts
+  - contracts link: https://github.com/Abhijaypaliwal/ERC6551PropertyProject/tree/main
+- CBDC Implementation in blockchain
+  - contracts link: https://github.com/Abhijaypaliwal/CBDCProject
+- CBDC Implementation in blckchain with merkle tree
+  - contracts link: https://github.com/Abhijaypaliwal/PBMC_DEX
 
 ## 🎯 𝗦𝗸ills
 
