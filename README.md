@@ -3,6 +3,8 @@ Blockchain Engineer with 2+ years of experience in the entire Blockchain project
 
 ## 👨‍🏭 𝗖𝗮𝗿𝗲𝗲𝗿 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
 - Blockchain Intern in Infograins Software solutions Ltd, one of the most prestigious blockchain dev company in India
+  - from May 2021- July 2021 as blockchain trainee
+  - from July 2023 - October 2023 as blockchain dev intern
 - Blockchain Intern at Webllisto Technologies Pvt. Ltd from May 2022 to July 2022
 
 ## 👨‍🎓 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻:
