@@ -36,7 +36,7 @@ Blockchain Engineer with 2+ years of experience in the entire Blockchain project
   - contracts link: https://github.com/Abhijaypaliwal/Solidity_mini_projects
 
 ## 🎯 Skills
-- Ethereum, Polygon, EVM, Optimism
+- Ethereum, Polygon, EVM, Optimism, Opensea
 - Expert in -
   - Building ERC20, ERC721, ERC1155, ERC6551 TBA, proxy contracts and other openzeppelin standard contracts
   - Writing gas optimised code
@@ -46,4 +46,4 @@ Blockchain Engineer with 2+ years of experience in the entire Blockchain project
 - Platform: Linux, Git, Github Actions, Gitlab CI/CD
 - Languages
   - Python: Data science, Machine Learning, AI
-  - Solidity: Foundry, Slither, Ethersjs, Web3, Alchemy, Infura, advanced assembly
+  - Solidity: Foundry, Ethersjs, Web3, Alchemy, Infura, assembly
