@@ -8,10 +8,12 @@ Blockchain Engineer with 2+ years of experience in the entire Blockchain project
 - Blockchain Intern at Webllisto Technologies Pvt. Ltd from May 2022 to July 2022
 
 ## 👨‍🎓 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻:
-- MBA(Tech.) dual degree course from Narsee Monjee Institute from Management Studies, Indore
+- MBA(Tech.) dual degree course from Narsee Monjee Institute from Management Studies, Indore (2019-2024)
+  - B.Tech (Bachelor of Technology) in Computer Engineering
+  - MBA majors in Finance and minors in BIA (Business Intelligence and Analytics)
 - Blockchain Professional Certification from UC Buffalo.
   
-## 🎯 Projects worked upon:
+## 🚧 Projects worked upon:
 - Matic banknote project with redemption
 - Clubrare.xyz NFT marketplace smart contracts (V1)
   - Website link: https://classic.clubrare.xyz/home
@@ -29,8 +31,7 @@ Blockchain Engineer with 2+ years of experience in the entire Blockchain project
 - CBDC Implementation in blckchain with merkle tree
   - contracts link: https://github.com/Abhijaypaliwal/PBMC_DEX
 
-## 🎯 𝗦𝗸ills
-
+## 🎯 Skills
 - Ethereum, Polygon, EVM, Optimism
 - Expert in -
   - Building ERC20, ERC721, ERC1155, ERC6551 TBA, proxy contracts and other openzeppelin standard contracts
