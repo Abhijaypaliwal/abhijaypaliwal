@@ -39,6 +39,7 @@ Blockchain Engineer with 2+ years of experience in the entire Blockchain project
 - Ethereum, Polygon, EVM, Optimism, Opensea
 - Expert in -
   - Building ERC20, ERC721, ERC1155, ERC6551 TBA, proxy contracts and other openzeppelin standard contracts
+  - ERC 4337 account abstraction
   - Writing gas optimised code
   - Using solidity assembly
   - Debugging contracts
