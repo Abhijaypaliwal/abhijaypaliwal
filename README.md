@@ -46,6 +46,7 @@ Blockchain Engineer with 2+ years of experience in the entire Blockchain project
   - Debugging contracts
 - Security: Code Review, Security Research in solidity 
 - Platform: Linux, Git, Github Actions, Gitlab CI/CD
+- Docker
 - Languages
   - Python: Data science, Machine Learning, AI
   - Solidity: Foundry, Ethersjs, Web3, Alchemy, Infura, assembly
